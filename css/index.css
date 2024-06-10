@@ -7,6 +7,8 @@ h1{
     color:blanchedalmond;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 0px;
+    margin: 20px;
 }
 
 h2, a, ul{ 
@@ -15,5 +17,9 @@ h2, a, ul{
 }
 
 a{
-    text-decoration: none;
+    text-decoration: dotted;
+}
+
+.recipe-list, .recipe-title{
+    margin: 20px;
 }
